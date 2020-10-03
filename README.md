@@ -8,7 +8,7 @@ It is called the Umbrella project because of the idea of making something better
 https://jrincongr.github.io/Umbrella/
 
 ### Github repository URL
-https://github.com/jrincongr/Umbrella
+https://github.com/jrincongr/Umbrella 
 
 ## Client Story
 
